@@ -1,0 +1,25 @@
+{
+    "name": "voyager-admin/widget-boilerplate",
+    "description": "A widget boilerplate for Voyager 2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christoph Schweppe",
+            "email": "info@cschweppe.de"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "VoyagerAdmin\\WidgetBoilerplate\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "VoyagerAdmin\\WidgetBoilerplate\\WidgetBoilerplateServiceProvider"
+            ]
+        }
+    }
+}
