@@ -1,9 +1,9 @@
 <?php
 
-namespace VoyagerAdmin\WidgetBoilerplate;
+namespace Voyager\WidgetBoilerplate;
 
 use Illuminate\View\View;
-use TCG\Voyager\Contracts\Plugins\IsWidget;
+use Voyager\Admin\Contracts\Plugins\IsWidget;
 
 class FirstWidget implements IsWidget
 {

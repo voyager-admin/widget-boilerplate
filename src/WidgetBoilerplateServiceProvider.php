@@ -1,9 +1,9 @@
 <?php
 
-namespace VoyagerAdmin\WidgetBoilerplate;
+namespace Voyager\WidgetBoilerplate;
 
 use Illuminate\Support\ServiceProvider;
-use TCG\Voyager\Facades\Plugins as PluginsFacade;
+use Voyager\Admin\Facades\Plugins as PluginsFacade;
 
 class WidgetBoilerplateServiceProvider extends ServiceProvider
 {
