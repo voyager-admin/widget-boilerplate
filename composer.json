@@ -2,6 +2,7 @@
     "name": "voyager-admin/widget-boilerplate",
     "description": "A widget boilerplate for Voyager II",
     "license": "MIT",
+    "keywords": ["voyager2-plugin"],
     "authors": [
         {
             "name": "Christoph Schweppe",
